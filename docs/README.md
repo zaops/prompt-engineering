@@ -1,5 +1,5 @@
 # Documentation
-
+[中文](README_CN.md) | English
 This directory contains comprehensive documentation for prompt engineering.
 
 ## Contents
